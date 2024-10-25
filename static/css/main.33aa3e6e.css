@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0}.parent{align-items:center;display:flex;flex-direction:column;justify-content:start;padding:20px;row-gap:50px}.child1{border:1px solid #fff}.child2{align-items:center;background-color:#e4e4e4;border:1px solid #ccc;display:flex;flex-wrap:nowrap;height:300px;justify-content:flex-start;overflow:hidden;padding:20px;position:relative;width:1200px}.child2 span{position:absolute;transition:transform 1s ease,font-size 1s ease,opacity 1s ease}
+/*# sourceMappingURL=main.33aa3e6e.css.map*/

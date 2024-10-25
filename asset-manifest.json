@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Word-Cloud-Assign4/static/css/main.33aa3e6e.css",
+    "main.js": "/Word-Cloud-Assign4/static/js/main.c4e10591.js",
+    "index.html": "/Word-Cloud-Assign4/index.html",
+    "main.33aa3e6e.css.map": "/Word-Cloud-Assign4/static/css/main.33aa3e6e.css.map",
+    "main.c4e10591.js.map": "/Word-Cloud-Assign4/static/js/main.c4e10591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aa3e6e.css",
+    "static/js/main.c4e10591.js"
+  ]
+}
